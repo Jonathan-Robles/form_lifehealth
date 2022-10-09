@@ -1,6 +1,6 @@
 // alt + shift + f    => Format the code
 
-//import "./styles.css";
+import "./styles.css";
 // const URL_BASE = "https://jonathan-robles.github.io/api/txt.json";
 const URL_BASE = "https://jonathan-robles.github.io/api/us_states.json";
 
